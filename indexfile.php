@@ -1,1 +1,1 @@
-<?php include("./JScriptHome")?>
+<?php include("./JScriptHome.html")?>
